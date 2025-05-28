@@ -1,1 +1,1 @@
-[📄 View the full Poster ](Poster.pdf)
+[📄 View the full Poster ](./Poster.pdf)
