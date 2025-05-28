@@ -1,1 +1,1 @@
-[📄 View the full Poster ](./poster.png)
+[📄 View the full Poster ](poster.png)
